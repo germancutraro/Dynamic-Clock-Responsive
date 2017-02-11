@@ -31,8 +31,14 @@ a {
 	color: #ee578c;
 }
 
+a:visited {
+	color: #ee578c;
+	text-decoration: none;
+}
+
 a:hover {
 	color: #ee578c;
+	text-decoration: none;
 }
 
 #clock {
